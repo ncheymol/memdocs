@@ -2,7 +2,7 @@
 title: Apps in Company Portal
 titleSuffix: Configuration Manager
 description: Provide a consistent user experience for co-managed devices to use the Company Portal app.
-ms.date: 10/05/2021
+ms.date: 04/10/2024
 ms.subservice: co-management
 ms.service: configuration-manager
 ms.topic: how-to
@@ -143,6 +143,8 @@ The following features of Software Center aren't currently available in the Comp
 - Some app information, for example if a restart is required or the estimated time to install
 
 - [App groups](../apps/deploy-use/create-app-groups.md)
+
+- Show Required Programs and Updates before the deadline is reached
 
 Other known issues:
 
